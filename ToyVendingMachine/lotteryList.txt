@@ -1,0 +1,4 @@
+ 
+Toys(nameToy=робот, weightToy=25) 
+Toys(nameToy=робот, weightToy=25) 
+Toys(nameToy=конструктор, weightToy=25)
